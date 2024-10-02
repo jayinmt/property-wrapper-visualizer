@@ -25,7 +25,7 @@ The SwiftUI Property Wrapper Visualizer is a tool designed to help developers un
 
 1. Clone the repository:
    ```
-   git clone https://github.com/jaydxyz/property-wrapper-visualizer.git
+   git clone https://github.com/jayinmt/property-wrapper-visualizer.git
    ```
 
 2. Open the project in Xcode:
